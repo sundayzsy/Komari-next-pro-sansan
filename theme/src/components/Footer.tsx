@@ -118,7 +118,7 @@ const Footer = () => {
           <div className="flex items-center justify-center gap-2 text-xs text-muted-foreground md:justify-end">
             <span>{t("footer.brand_line")}</span>
             <a
-              href="https://github.com/sundayzsy/komari-next-pro"
+              href="https://github.com/sundayzsy/Komari-next-pro-sansan"
               target="_blank"
               rel="noreferrer noopener"
               aria-label="komari-nex-pro-sansan GitHub Repository"
