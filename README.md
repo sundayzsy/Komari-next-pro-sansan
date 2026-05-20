@@ -2,8 +2,6 @@
 
 Komari Next Pro Sansan是一个 Komari 自定义主题，在 `komari-next-pro` 的基础上修改，主要是修改了界面的一些显示参数，按照个人喜好使用AI进行修改的，基于`komari-next-pro` 1.3.6版本。
 
-项目地址：https://github.com/sundayzsy/Komari-next-pro-sansan
-
 ## 项目简介
 
 本仓库分为两个模块：
